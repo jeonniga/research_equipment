@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>크롤링데모</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+충남대학교 디바이스 정보
+{% for each in results %}
+    {% if loop.index % 2==0 %}
+        <bold><p style="'font-size:20px';color:#00C63A;family='돋움'"> {{loop.index}}, {{-each-}} </a></p></bold>
+    {%else%}
+        <p style="'font-size:20px';color:#2ECCFA;family='돋움'"> {{loop.index}}, {{-each-}}</a> </p>
+    {% endif %}
+{% endfor %}
+
+
+</body>
+</html>
