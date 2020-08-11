@@ -1,0 +1,114 @@
+{
+    {
+    "address": "http://공실관협의회.kr/",
+    "name": "전국 국립대학교 공동실험실습관 협의회",
+    },
+    {
+    "address": "http://www.gwnulab.kr/",
+    "name": "강릉원주대학교",
+    },
+    {
+    "address": "http://crf.kangwon.ac.kr/",
+    "name": "강원대학교(삼척)",
+    },
+    {
+    "address": "http://www.kwclab.co.kr/",
+    "name": "강원대학교(춘천)",
+    },    
+    {
+    "address": "http://cenlab.gntech.ac.kr/",
+    "name": "경남과학기술대학교",
+    },  
+    {
+    "address": "http://knusys9.knu.ac.kr/gisg/",
+    "name": "경북대학교",
+    },      
+    {
+        "address": "http://crf.gnu.ac.kr",
+        "name": "경상대학교",
+    },  
+    {
+        "address": "http://kcl.kongju.ac.kr/",
+        "name": "공주대학교",
+    },     
+    {
+        "address": "http://gongsil.kunsan.ac.kr/",
+        "name": "군산대학교",
+    }, 
+    {
+        "address": "http://csi.kumoh.ac.kr/",
+        "name": "금오공과대학교",
+    },     
+    {
+        "address": "http://centlab.mokpo.ac.kr/",
+        "name": "목포대학교",
+    },     
+    {
+        "address": "http://clc.pknu.ac.kr/",
+        "name": "부경대학교",
+    },     
+    {
+        "address": "http://labcenter.pusan.ac.kr/",
+        "name": "부산대학교",
+    },    
+    {
+        "address": "http://lab.seoultech.ac.kr/",
+        "name": "서울과학기술대학교",
+    },     
+    {
+        "address": "https://irf.snu.ac.kr/",
+        "name": "서울대학교 기초과학공동기기원",
+    },     
+    {
+        "address": "http://nicem.snu.ac.kr/",
+        "name": "서울대학교 농생명과학공동기기원",
+    },     
+    {
+        "address": "http://www.sunchonlab.kr/",
+        "name": "순천대학교",
+    },   
+    {
+        "address": "http://www.andonglab.kr/",
+        "name": "안동대학교",
+    },     
+    {
+        "address": "http://jcrf.jnu.ac.kr/gwangju/",
+        "name": "전남대학교(광주)",
+    },     
+    {
+        "address": "http://jcrf.jnu.ac.kr/yeosu/",
+        "name": "전남대학교(여수)",
+    },    
+    {
+        "address": "http://curf.chonbuk.ac.kr/",
+        "name": "전북대학교",
+    },     
+    {
+        "address": "http://www.chejulab.or.kr/",
+        "name": "제주대학교",
+    },     
+    {
+        "address": "http://centlab.changwon.ac.kr/",
+        "name": "창원대학교",
+    },     
+    {
+        "address": "http://gloria.cbnu.ac.kr/",
+        "name": "충북대학교",
+    },    
+    {
+        "address": "http://centlab.hknu.ac.kr/",
+        "name": "한경대학교",
+    },  
+    {
+        "address": "http://clab.ut.ac.kr/",
+        "name": "한국교통대학교",
+    },         
+    {
+        "address": "http://clc.hhu.ac.kr/",
+        "name": "한국해양대학교",
+    },    
+    {
+        "address": "http://centlab.hanbat.ac.kr/",
+        "name": "한밭대학교",
+    }           
+}
